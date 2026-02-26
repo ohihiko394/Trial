@@ -10,7 +10,6 @@
     "test:telegram": "npx tsx scripts/test-telegram.ts"
   },
   "dependencies": {
-    "@vercel/analytics": "^1.4.1",
     "@supabase/supabase-js": "^2.89.0",
     "@tanstack/react-table": "^8.21.3",
     "@types/bcryptjs": "^2.4.6",
